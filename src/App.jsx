@@ -9,7 +9,7 @@ function App()
 {
   return(
     <div className="App">
-      <header className="Header">Scroller Position:</header>
+      <header className="Header">Scroll Position:</header>
       <PanelMouseLogger />
       <PointMouseLogger />
     </div>
